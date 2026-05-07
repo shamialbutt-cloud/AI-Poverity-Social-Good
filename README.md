@@ -12,6 +12,7 @@ Screenshots from the file (pages 2–3) show examples of this workflow: a prompt
 
 ## 4. One Failure Case Tied To A Lab Output
 A key failure case appears in the lab outputs where the AI produces overly long and inconsistent responses across multiple runs (e.g., “Run 1, Run 2, Run 3” on pages 7–12). The variation in format and level of detail makes it difficult for users to extract clear, actionable information. This is considered a failure because the system is intended to simplify access to resources, not overwhelm users with excessive or inconsistent outputs.
+![AI Lab Screenshot](screenshot.png)
 
 ## 5. The Oversight Decision And The One Change, Each With Its Tradeoff Stated
 The oversight decision is to include human review or stricter system constraints for high-impact outputs to ensure clarity, accuracy, and fairness. The tradeoff is that adding oversight may slow down response time and reduce scalability. One key change is refining prompts and system instructions to require shorter, more structured responses. This improves usability and consistency for users, but the tradeoff is that it may reduce the depth and nuance of the information provided.
