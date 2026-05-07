@@ -37,3 +37,18 @@ A key failure case appears in the lab outputs where the AI produces overly long 
 The oversight decision is to include human review or stricter system constraints for high-impact outputs to ensure clarity, accuracy, and fairness. The tradeoff is that adding oversight may slow down response time and reduce scalability. One key change is refining prompts and system instructions to require shorter, more structured responses. This improves usability and consistency for users, but the tradeoff is that it may reduce the depth and nuance of the information provided.
 
 ## Sheila's Outputs
+Code 1: 
+<img width="367" height="176" alt="Screenshot 2026-05-06 at 8 24 26 PM" src="https://github.com/user-attachments/assets/8183370b-caac-4ae4-a635-dd4e2d18631d" />
+
+Code 2:
+<img width="872" height="418" alt="Screenshot 2026-05-06 at 8 25 02 PM" src="https://github.com/user-attachments/assets/3823b92c-4fc0-47bc-a0c8-0e4ea0d75e90" />
+
+Code 3:
+<img width="632" height="129" alt="Screenshot 2026-05-06 at 8 25 34 PM" src="https://github.com/user-attachments/assets/d4d39a7d-d0df-4649-84aa-bd5559bda629" />
+
+Code 4: 
+<img width="1383" height="151" alt="Screenshot 2026-05-06 at 8 26 05 PM" src="https://github.com/user-attachments/assets/b95df6e8-0660-41d2-be4b-ea1f34407985" />
+
+Code 5: 
+<img width="1399" height="178" alt="Screenshot 2026-05-06 at 8 27 15 PM" src="https://github.com/user-attachments/assets/c9ed6d6a-4b11-487a-9b11-47d8f488ce89" />
+
