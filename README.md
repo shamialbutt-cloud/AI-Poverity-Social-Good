@@ -11,7 +11,7 @@ The system begins with user inputs such as financial information, location, and 
 Screenshots from the file (pages 2–3) show examples of this workflow: a prompt being input into the system, the AI-generated response summarizing the issue, and a structured output describing Jennifer’s situation and challenges.
 
 Shamial's Outputs:
-<img width="986" height="176" alt="Screenshot 2026-05-06 at 7 25 15 PM" src="https://github.com/user-attachments/assets/6cfb5830-b2f3-4de0-b3bc-919c4f745edf" />
+Code 1:
 <img width="986" height="453" alt="Screenshot 2026-05-06 at 7 25 22 PM" src="https://github.com/user-attachments/assets/d322aa8b-2d85-4f66-84c3-ed230d641965" />
 <img width="988" height="552" alt="Screenshot 2026-05-06 at 7 25 44 PM" src="https://github.com/user-attachments/assets/e89a0b34-a4a4-4673-b5fd-8aed2503adec" />
 <img width="981" height="544" alt="Screenshot 2026-05-06 at 7 26 06 PM" src="https://github.com/user-attachments/assets/edafb691-3aa1-4792-b346-9f6da9215d21" />
