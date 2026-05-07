@@ -10,10 +10,15 @@ The project uses AI capabilities such as natural language processing (NLP) and r
 The system begins with user inputs such as financial information, location, and available resource data. The AI then processes this information to identify needs, barriers (e.g., housing affordability, education access), and eligibility for support programs. The output includes personalized recommendations like housing assistance, budgeting strategies, or job opportunities. Finally, the user acts on these recommendations by applying for programs or accessing services.
 Screenshots from the file (pages 2–3) show examples of this workflow: a prompt being input into the system, the AI-generated response summarizing the issue, and a structured output describing Jennifer’s situation and challenges.
 
-Shamial's Outputs:
+## Shamial's Outputs
+
 Code 1:
 <img width="986" height="453" alt="Screenshot 2026-05-06 at 7 25 22 PM" src="https://github.com/user-attachments/assets/d322aa8b-2d85-4f66-84c3-ed230d641965" />
+
+Code 2:
 <img width="988" height="552" alt="Screenshot 2026-05-06 at 7 25 44 PM" src="https://github.com/user-attachments/assets/e89a0b34-a4a4-4673-b5fd-8aed2503adec" />
+
+Code 3:
 <img width="981" height="544" alt="Screenshot 2026-05-06 at 7 26 06 PM" src="https://github.com/user-attachments/assets/edafb691-3aa1-4792-b346-9f6da9215d21" />
 <img width="987" height="404" alt="Screenshot 2026-05-06 at 7 26 16 PM" src="https://github.com/user-attachments/assets/031e00ad-a73c-48b9-8f47-7e2b9b445862" />
 <img width="987" height="317" alt="Screenshot 2026-05-06 at 7 26 38 PM" src="https://github.com/user-attachments/assets/2402ca51-4470-48d6-8b4e-e67cd11c4154" />
