@@ -52,3 +52,12 @@ Code 4:
 Code 5: 
 <img width="1399" height="178" alt="Screenshot 2026-05-06 at 8 27 15 PM" src="https://github.com/user-attachments/assets/c9ed6d6a-4b11-487a-9b11-47d8f488ce89" />
 
+## Failure
+**Exact Predictions are Not Possible:** Predicting an "exact percentage change" in food bank utilization due to a single policy change (like a 10% minimum wage increase) is beyond the capability of any AI, or even expert human economists, with such precision. Real-world economic systems are incredibly complex, influenced by a multitude of interconnected factors, many of which are dynamic and unpredictable.
+*   **Too Many Variables:** The impact of a minimum wage increase on food bank utilization would depend on:
+    *   **Inflation and Cost of Living:** How quickly other costs (housing, gas, food prices) rise in response to or independently of the wage increase.
+    *   **Job Market Dynamics:** How employers respond (e.g., job creation/reduction, automation).
+    *   **Household Composition and Existing Debt:** Individual financial situations vary widely.
+    *   **Availability of Other Social Safety Nets:** Other aid programs (SNAP, housing assistance) also play a role.
+    *   **Behavioral Responses:** How individuals manage new income, and whether they perceive food banks as still necessary.
+    *   **Data Limitations:** Does not have access to real-time, hyper-local, proprietary data that would be necessary even to attempt such a granular prediction.
