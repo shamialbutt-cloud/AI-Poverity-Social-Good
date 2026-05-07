@@ -25,17 +25,6 @@ Code 3:
 <img width="987" height="454" alt="Screenshot 2026-05-06 at 7 26 43 PM" src="https://github.com/user-attachments/assets/df442f40-d4d2-4d42-8774-398ac9cf7213" />
 <img width="987" height="457" alt="Screenshot 2026-05-06 at 7 26 51 PM" src="https://github.com/user-attachments/assets/8e753e5e-8f34-44a5-9389-c5b7d0014cc6" />
 
-
-
-## 4. One Failure Case Tied To A Lab Output
-A key failure case appears in the lab outputs where the AI produces overly long and inconsistent responses across multiple runs (e.g., “Run 1, Run 2, Run 3”). The variation in format and level of detail makes it difficult for users to extract clear, actionable information. This is considered a failure because the system is intended to simplify access to resources, not overwhelm users with excessive or inconsistent outputs.
-
-## Shamial's Failure
-<img width="996" height="283" alt="Screenshot 2026-05-06 at 7 14 07 PM" src="https://github.com/user-attachments/assets/6282db31-bf33-40cf-9e34-6c5f0ae730b3" />
-
-## 5. The Oversight Decision And The One Change, Each With Its Tradeoff Stated
-The oversight decision is to include human review or stricter system constraints for high-impact outputs to ensure clarity, accuracy, and fairness. The tradeoff is that adding oversight may slow down response time and reduce scalability. One key change is refining prompts and system instructions to require shorter, more structured responses. This improves usability and consistency for users, but the tradeoff is that it may reduce the depth and nuance of the information provided.
-
 ## Sheila's Outputs
 
 Code 1: 
@@ -52,3 +41,13 @@ Code 4:
 
 Code 5: 
 <img width="1399" height="178" alt="Screenshot 2026-05-06 at 8 27 15 PM" src="https://github.com/user-attachments/assets/c9ed6d6a-4b11-487a-9b11-47d8f488ce89" />
+
+
+## 4. One Failure Case Tied To A Lab Output
+A key failure case appears in the lab outputs where the AI produces overly long and inconsistent responses across multiple runs (e.g., “Run 1, Run 2, Run 3”). The variation in format and level of detail makes it difficult for users to extract clear, actionable information. This is considered a failure because the system is intended to simplify access to resources, not overwhelm users with excessive or inconsistent outputs.
+
+## Shamial's Failure
+<img width="996" height="283" alt="Screenshot 2026-05-06 at 7 14 07 PM" src="https://github.com/user-attachments/assets/6282db31-bf33-40cf-9e34-6c5f0ae730b3" />
+
+## 5. The Oversight Decision And The One Change, Each With Its Tradeoff Stated
+The oversight decision is to include human review or stricter system constraints for high-impact outputs to ensure clarity, accuracy, and fairness. The tradeoff is that adding oversight may slow down response time and reduce scalability. One key change is refining prompts and system instructions to require shorter, more structured responses. This improves usability and consistency for users, but the tradeoff is that it may reduce the depth and nuance of the information provided.
