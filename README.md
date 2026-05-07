@@ -29,7 +29,8 @@ Code 3:
 
 ## 4. One Failure Case Tied To A Lab Output
 A key failure case appears in the lab outputs where the AI produces overly long and inconsistent responses across multiple runs (e.g., “Run 1, Run 2, Run 3” on pages 7–12). The variation in format and level of detail makes it difficult for users to extract clear, actionable information. This is considered a failure because the system is intended to simplify access to resources, not overwhelm users with excessive or inconsistent outputs.
-Shamial's Failure:
+
+## Shamial's Failure
 <img width="996" height="283" alt="Screenshot 2026-05-06 at 7 14 07 PM" src="https://github.com/user-attachments/assets/6282db31-bf33-40cf-9e34-6c5f0ae730b3" />
 
 ## 5. The Oversight Decision And The One Change, Each With Its Tradeoff Stated
