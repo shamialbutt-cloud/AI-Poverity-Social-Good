@@ -35,3 +35,5 @@ A key failure case appears in the lab outputs where the AI produces overly long 
 
 ## 5. The Oversight Decision And The One Change, Each With Its Tradeoff Stated
 The oversight decision is to include human review or stricter system constraints for high-impact outputs to ensure clarity, accuracy, and fairness. The tradeoff is that adding oversight may slow down response time and reduce scalability. One key change is refining prompts and system instructions to require shorter, more structured responses. This improves usability and consistency for users, but the tradeoff is that it may reduce the depth and nuance of the information provided.
+
+## Sheila's Outputs
